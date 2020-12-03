@@ -71,5 +71,3 @@ pode ser usado o let e o const
 // console.log('\nString parseada para int: ', parseInt('13.23'))
 
 //=================OBJECT========================
-
-
